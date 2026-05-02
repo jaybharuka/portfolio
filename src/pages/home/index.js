@@ -30,13 +30,13 @@ export const Home = () => {
                   &lt;/&gt;
                 </h3>
                 <p className="mb-2" style={{ fontSize: '1.2rem', opacity: '0.9' }}>
-                  Cloud Computing
+                  AI / ML Engineering
                 </p>
                 <p className="mb-2" style={{ fontSize: '1.2rem', opacity: '0.9' }}>
-                  Full Stack Development
+                  LLMs · RAG · MCP · Agents
                 </p>
                 <p style={{ fontSize: '1.2rem', opacity: '0.9' }}>
-                  Problem Solving
+                  Cloud &amp; Full Stack
                 </p>
               </div>
             </div>
